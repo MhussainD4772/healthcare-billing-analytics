@@ -1,66 +1,104 @@
+<!-- HERO SECTION -->
 <div align="center">
-
-# 🏥 Healthcare Billing Analytics Pipeline
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![SQLite](https://img.shields.io/badge/SQLite-3.x-green.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Pandas](https://img.shields.io/badge/Pandas-1.3+-red.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5+-orange.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
-### 🚀 **Transform Excel Data into Actionable Healthcare Insights**
-
-*A complete end-to-end healthcare billing analytics solution that processes Excel data, performs advanced SQL analysis, and generates stunning visualizations for data-driven decision making.*
-
-[![GitHub stars](https://img.shields.io/github/stars/mohammed/healthcare-billing-analytics.svg?style=social&label=Star)](https://github.com/mohammed/healthcare-billing-analytics)
-[![GitHub forks](https://img.shields.io/github/forks/mohammed/healthcare-billing-analytics.svg?style=social&label=Fork)](https://github.com/mohammed/healthcare-billing-analytics/fork)
-[![GitHub issues](https://img.shields.io/github/issues/mohammed/healthcare-billing-analytics.svg?style=social&label=Issues)](https://github.com/mohammed/healthcare-billing-analytics/issues)
-
+  <table>
+    <tr>
+      <td align="center">
+        <h1>🏥 <strong>Healthcare Billing Analytics Pipeline</strong></h1>
+        <h3>🚀 <strong>Transform Excel Data into Actionable Healthcare Insights</strong></h3>
+        <p>
+          <a href="https://python.org">
+            <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          </a>
+          <a href="https://sqlite.org">
+            <img src="https://img.shields.io/badge/SQLite-3.x-green.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+          </a>
+          <a href="https://pandas.pydata.org">
+            <img src="https://img.shields.io/badge/Pandas-1.3+-red.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+          </a>
+          <a href="https://matplotlib.org">
+            <img src="https://img.shields.io/badge/Matplotlib-3.5+-orange.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+          </a>
+          <a href="LICENSE">
+            <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License" />
+          </a>
+        </p>
+        <blockquote>
+          <em>A complete end-to-end healthcare billing analytics solution that processes Excel data, performs advanced SQL analysis, and generates stunning visualizations for data-driven decision making.</em>
+        </blockquote>
+        <p>
+          <a href="https://github.com/mohammed/healthcare-billing-analytics">
+            <img src="https://img.shields.io/github/stars/mohammed/healthcare-billing-analytics.svg?style=social&label=Star" alt="GitHub stars" />
+          </a>
+          <a href="https://github.com/mohammed/healthcare-billing-analytics/fork">
+            <img src="https://img.shields.io/github/forks/mohammed/healthcare-billing-analytics.svg?style=social&label=Fork" alt="GitHub forks" />
+          </a>
+          <a href="https://github.com/mohammed/healthcare-billing-analytics/issues">
+            <img src="https://img.shields.io/github/issues/mohammed/healthcare-billing-analytics.svg?style=social&label=Issues" alt="GitHub issues" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🎯 **What This Project Does**
+<!-- PROJECT OVERVIEW + FEATURES -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-This is a **comprehensive healthcare billing analytics pipeline** that transforms raw Excel data into powerful business insights through:
+### 🎯 <strong>What This Project Does</strong>
+
+This is a <strong>comprehensive healthcare billing analytics pipeline</strong> that transforms raw Excel data into powerful business insights through:
 
 - **📊 Multi-sheet Excel data loading** with automatic SQLite database creation
 - **🔍 Advanced SQL queries** for revenue analysis, patient demographics, and performance metrics
 - **🐍 Python-powered analytics** with beautiful visualizations using Matplotlib and Seaborn
 - **📈 Interactive dashboards** and comprehensive reporting capabilities
 
----
+    </td>
+    <td width="50%" valign="top">
 
-## ✨ **Key Features**
+### ✨ <strong>Key Features</strong>
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🔄 **Data Processing**
-- ✅ **Multi-sheet Excel loading** with automatic table creation
-- ✅ **Data validation** and comprehensive error handling
-- ✅ **SQLite database** for efficient querying and storage
-- ✅ **Automatic column sanitization** for SQL compatibility
-- ✅ **Logging system** for process monitoring
+#### 🔄 <strong>Data Processing</strong>
+- ✅ <strong>Multi-sheet Excel loading</strong> with automatic table creation
+- ✅ <strong>Data validation</strong> and comprehensive error handling
+- ✅ <strong>SQLite database</strong> for efficient querying and storage
+- ✅ <strong>Automatic column sanitization</strong> for SQL compatibility
+- ✅ <strong>Logging system</strong> for process monitoring
 
-</td>
-<td width="50%">
+    </td>
+    <td width="50%" valign="top">
 
-### 📊 **Analytics Engine**
-- ✅ **Revenue analysis** by department and service type
-- ✅ **Patient demographics** and billing pattern analysis
-- ✅ **Insurance claim** processing insights
-- ✅ **Performance metrics** and KPI calculations
-- ✅ **Time-series analysis** for trend identification
+#### 📊 <strong>Analytics Engine</strong>
+- ✅ <strong>Revenue analysis</strong> by department and service type
+- ✅ <strong>Patient demographics</strong> and billing pattern analysis
+- ✅ <strong>Insurance claim</strong> processing insights
+- ✅ <strong>Performance metrics</strong> and KPI calculations
+- ✅ <strong>Time-series analysis</strong> for trend identification
 
-</td>
-</tr>
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🛠️ **Technical Architecture**
+<!-- ARCHITECTURE + STRUCTURE -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛠️ <strong>Technical Architecture</strong>
 
 ```mermaid
 graph TD
@@ -75,9 +113,10 @@ graph TD
     H --> I[🎯 Decision Making]
 ```
 
----
+    </td>
+    <td width="50%" valign="top">
 
-## 📁 **Project Structure**
+### 📁 <strong>Project Structure</strong>
 
 ```
 healthcare-billing-analytics/
@@ -94,16 +133,28 @@ healthcare-billing-analytics/
     └── billing_insights.png
 ```
 
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🚀 **Quick Start Guide**
+<!-- QUICK START -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### **Prerequisites**
+### 🚀 <strong>Quick Start Guide</strong>
+
+#### <strong>Prerequisites</strong>
 - 🐍 Python 3.8 or higher
 - 📦 pip package manager
 - 📊 Excel files with healthcare data
 
-### **Installation & Setup**
+    </td>
+    <td width="50%" valign="top">
+
+#### <strong>Installation &amp; Setup</strong>
 
 <details>
 <summary><b>🔽 Click to expand installation steps</b></summary>
@@ -131,9 +182,18 @@ healthcare-billing-analytics/
 
 </details>
 
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 📊 **Database Schema**
+<!-- DATABASE & SQL -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📊 <strong>Database Schema</strong>
 
 The SQLite database is automatically created with the following structure:
 
@@ -144,28 +204,29 @@ The SQLite database is automatically created with the following structure:
 | **`departments`** | Hospital departments | `department_id`, `department_name` |
 | **`services`** | Medical services provided | `service_id`, `service_name`, `base_cost` |
 
----
+    </td>
+    <td width="50%" valign="top">
 
-## 🔍 **Core SQL Analytics**
+### 🔍 <strong>Core SQL Analytics</strong>
 
-### **Revenue Analysis**
+#### <strong>Revenue Analysis</strong>
 ```sql
 -- Department revenue performance
-SELECT 
+SELECT
     department,
     SUM(amount) as total_revenue,
     COUNT(*) as total_claims,
     AVG(amount) as avg_claim_amount
-FROM billing 
-GROUP BY department 
+FROM billing
+GROUP BY department
 ORDER BY total_revenue DESC;
 ```
 
-### **Patient Demographics**
+#### <strong>Patient Demographics</strong>
 ```sql
 -- Age group analysis
-SELECT 
-    CASE 
+SELECT
+    CASE
         WHEN age < 18 THEN 'Under 18'
         WHEN age BETWEEN 18 AND 30 THEN '18-30'
         WHEN age BETWEEN 31 AND 50 THEN '31-50'
@@ -174,15 +235,15 @@ SELECT
     END as age_group,
     COUNT(*) as patient_count,
     AVG(total_charges) as avg_charges
-FROM patients 
+FROM patients
 GROUP BY age_group
 ORDER BY patient_count DESC;
 ```
 
-### **Performance Metrics**
+#### <strong>Performance Metrics</strong>
 ```sql
 -- Insurance claim success rates
-SELECT 
+SELECT
     insurance_type,
     COUNT(*) as total_claims,
     SUM(CASE WHEN status = 'approved' THEN 1 ELSE 0 END) as approved_claims,
@@ -195,31 +256,41 @@ GROUP BY insurance_type
 ORDER BY approval_rate DESC;
 ```
 
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 📈 **Analytics Capabilities**
+<!-- ANALYTICS & VISUALIZATION -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### **Revenue Analysis**
+### 📈 <strong>Analytics Capabilities</strong>
+
+#### <strong>Revenue Analysis</strong>
 - 💰 **Total revenue** by department and service
 - 📊 **Monthly/quarterly trends** and seasonality
 - 🎯 **Top-performing services** and departments
 - 📉 **Revenue distribution** and outlier detection
 
-### **Patient Demographics**
+#### <strong>Patient Demographics</strong>
 - 👥 **Age group analysis** and distribution
 - 🏥 **Insurance coverage** patterns
 - 📊 **Gender distribution** and billing patterns
 - 💳 **Payment method** preferences
 
-### **Billing Insights**
+#### <strong>Billing Insights</strong>
 - ✅ **Claim status** analysis and approval rates
 - ⏱️ **Processing time** metrics
 - 💰 **Average claim amounts** by category
 - 📈 **Monthly billing trends**
 
----
+    </td>
+    <td width="50%" valign="top">
 
-## 🎨 **Visualization Features**
+### 🎨 <strong>Visualization Features</strong>
 
 The project generates stunning visualizations including:
 
@@ -229,108 +300,162 @@ The project generates stunning visualizations including:
 - 📈 **Time-series trends** for monthly revenue patterns
 - 🎯 **Performance metrics** with KPI dashboards
 
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🛠️ **Development & Customization**
+<!-- DEVELOPMENT -->
+<table>
+  <tr>
+    <td width="33%" valign="top">
 
-### **Adding New SQL Queries**
+### 🛠️ <strong>Development &amp; Customization</strong>
+
+#### <strong>Adding New SQL Queries</strong>
 1. Edit `2_sql_queries.sql`
 2. Add your custom SQL queries
 3. Test with SQLite browser or Python
 
-### **Custom Python Analysis**
+    </td>
+    <td width="33%" valign="top">
+
+#### <strong>Custom Python Analysis</strong>
 1. Modify `3_python_analysis.py`
 2. Add new analysis methods to the `HealthcareAnalytics` class
 3. Run the script to generate updated visualizations
 
-### **Configuration Options**
+    </td>
+    <td width="34%" valign="top">
+
+#### <strong>Configuration Options</strong>
 Edit `config.py` to customize:
 - Database settings
 - Excel file paths
 - Output directory
 - Chart formatting options
 
----
-
-## 📊 **Sample Analysis Results**
-
-| Metric | Value | Description |
-|--------|-------|-------------|
-| **Total Revenue** | $2,450,000 | Combined revenue across all departments |
-| **Average Claim** | $1,250 | Mean claim amount across all services |
-| **Top Department** | Cardiology (35%) | Highest revenue generating department |
-| **Insurance Coverage** | 85% | Percentage of claims with insurance |
-| **Approval Rate** | 92% | Overall claim approval success rate |
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 **Contributing**
+<!-- SAMPLE RESULTS -->
+### 📊 <strong>Sample Analysis Results</strong>
+
+<table>
+  <tr>
+    <th>Metric</th>
+    <th>Value</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><strong>Total Revenue</strong></td>
+    <td>$2,450,000</td>
+    <td>Combined revenue across all departments</td>
+  </tr>
+  <tr>
+    <td><strong>Average Claim</strong></td>
+    <td>$1,250</td>
+    <td>Mean claim amount across all services</td>
+  </tr>
+  <tr>
+    <td><strong>Top Department</strong></td>
+    <td>Cardiology (35%)</td>
+    <td>Highest revenue generating department</td>
+  </tr>
+  <tr>
+    <td><strong>Insurance Coverage</strong></td>
+    <td>85%</td>
+    <td>Percentage of claims with insurance</td>
+  </tr>
+  <tr>
+    <td><strong>Approval Rate</strong></td>
+    <td>92%</td>
+    <td>Overall claim approval success rate</td>
+  </tr>
+</table>
+
+---
+
+<!-- CONTRIBUTING -->
+### 🤝 <strong>Contributing</strong>
 
 We welcome contributions! Here's how you can help:
 
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 **Push** to the branch (`git push origin feature/amazing-feature`)
-5. 🔄 **Open** a Pull Request
+1. 🍴 <strong>Fork</strong> the repository
+2. 🌿 <strong>Create</strong> a feature branch (`git checkout -b feature/amazing-feature`)
+3. 💾 <strong>Commit</strong> your changes (`git commit -m 'Add amazing feature'`)
+4. 📤 <strong>Push</strong> to the branch (`git push origin feature/amazing-feature`)
+5. 🔄 <strong>Open</strong> a Pull Request
 
 ---
 
-## 📝 **License**
+### 📝 <strong>License</strong>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👥 **Author**
+### 👥 <strong>Author</strong>
 
 <div align="center">
 
-**Mohammed** - *Healthcare Analytics Specialist*
+<strong>Mohammed</strong> - <em>Healthcare Analytics Specialist</em>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed)
+<a href="https://github.com/mohammed">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/mohammed">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## 🙏 **Acknowledgments**
+### 🙏 <strong>Acknowledgments</strong>
 
-- 🏥 **Healthcare data analysis** best practices and methodologies
-- 📚 **SQLite documentation** and community support
-- 🐍 **Python data science** community and libraries
-- 📊 **Matplotlib and Seaborn** for beautiful visualizations
+- 🏥 <strong>Healthcare data analysis</strong> best practices and methodologies
+- 📚 <strong>SQLite documentation</strong> and community support
+- 🐍 <strong>Python data science</strong> community and libraries
+- 📊 <strong>Matplotlib and Seaborn</strong> for beautiful visualizations
 
 ---
 
-## 🎯 **Project Impact & Use Cases**
+### 🎯 <strong>Project Impact &amp; Use Cases</strong>
 
 This project demonstrates:
 
-- ✅ **Real-world data processing** skills with healthcare data
-- ✅ **Advanced SQL analytics** for business intelligence
-- ✅ **Python data science** capabilities with visualization
-- ✅ **Professional documentation** and code organization
-- ✅ **End-to-end pipeline** development expertise
+- ✅ <strong>Real-world data processing</strong> skills with healthcare data
+- ✅ <strong>Advanced SQL analytics</strong> for business intelligence
+- ✅ <strong>Python data science</strong> capabilities with visualization
+- ✅ <strong>Professional documentation</strong> and code organization
+- ✅ <strong>End-to-end pipeline</strong> development expertise
 
-**Perfect for:**
-- 🎓 **Portfolio projects** and technical interviews
-- 📊 **Healthcare analytics** learning and development
-- 🏥 **Healthcare organizations** seeking billing insights
-- 👨‍💻 **Data scientists** learning healthcare domain
+<strong>Perfect for:</strong>
+- 🎓 <strong>Portfolio projects</strong> and technical interviews
+- 📊 <strong>Healthcare analytics</strong> learning and development
+- 🏥 <strong>Healthcare organizations</strong> seeking billing insights
+- 👨‍💻 <strong>Data scientists</strong> learning healthcare domain
 
 ---
 
 <div align="center">
 
-## ⭐ **Star this repository if you found it helpful!** ⭐
+## ⭐ <strong>Star this repository if you found it helpful!</strong> ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/mohammed/healthcare-billing-analytics.svg?style=social&label=Star)](https://github.com/mohammed/healthcare-billing-analytics)
-[![GitHub forks](https://img.shields.io/github/forks/mohammed/healthcare-billing-analytics.svg?style=social&label=Fork)](https://github.com/mohammed/healthcare-billing-analytics/fork)
+<a href="https://github.com/mohammed/healthcare-billing-analytics">
+  <img src="https://img.shields.io/github/stars/mohammed/healthcare-billing-analytics.svg?style=social&label=Star" alt="GitHub stars" />
+</a>
+<a href="https://github.com/mohammed/healthcare-billing-analytics/fork">
+  <img src="https://img.shields.io/github/forks/mohammed/healthcare-billing-analytics.svg?style=social&label=Fork" alt="GitHub forks" />
+</a>
 
 ---
 
-**🚀 Ready to transform your healthcare data into actionable insights? Get started now!**
+<strong>🚀 Ready to transform your healthcare data into actionable insights? Get started now!</strong>
 
 </div>
