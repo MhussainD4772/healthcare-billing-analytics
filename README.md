@@ -430,7 +430,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Mohammed** - *Healthcare Analytics Specialist*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/syed-mohammed-hussain-8b385b209/))
 
 </div>
 
@@ -514,3 +514,7 @@ This project demonstrates:
   </p>
 </div>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b0f01b2ff221ae2aebebfa9c4270160cacc5d838
