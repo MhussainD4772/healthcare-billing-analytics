@@ -1,135 +1,262 @@
 <div align="center">
 
-# 🏥 Healthcare Billing Analytics Pipeline
+<!-- Animated Header with Gradient Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🏥+Healthcare+Billing+Analytics+Pipeline;📊+Transform+Excel+Data+into+Insights;🚀+Advanced+SQL+%26+Python+Analytics;💡+Data-Driven+Decision+Making" alt="Animated Header" />
+</div>
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![SQLite](https://img.shields.io/badge/SQLite-3.x-green.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Pandas](https://img.shields.io/badge/Pandas-1.3+-red.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5+-orange.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+<br>
 
-### 🚀 **Transform Excel Data into Actionable Healthcare Insights**
+<!-- Animated Badges with Hover Effects -->
+<div align="center">
 
-*A complete end-to-end healthcare billing analytics solution that processes Excel data, performs advanced SQL analysis, and generates stunning visualizations for data-driven decision making.*
+[![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python&logoColor=white&labelColor=3776ab&color=ffd43b&link=https://python.org)](https://python.org)
+[![SQLite](https://img.shields.io/badge/SQLite-3.x-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=003B57&color=00D4FF&link=https://sqlite.org)](https://sqlite.org)
+[![Pandas](https://img.shields.io/badge/Pandas-1.3+-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458&color=ff6600&link=https://pandas.pydata.org)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5+-11557c?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=11557c&color=ff6600&link=https://matplotlib.org)](https://matplotlib.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11+-3776ab?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=3776ab&color=ff6600&link=https://seaborn.pydata.org)](https://seaborn.pydata.org)
 
-[![GitHub stars](https://img.shields.io/github/stars/mohammed/healthcare-billing-analytics.svg?style=social&label=Star)](https://github.com/mohammed/healthcare-billing-analytics)
-[![GitHub forks](https://img.shields.io/github/forks/mohammed/healthcare-billing-analytics.svg?style=social&label=Fork)](https://github.com/mohammed/healthcare-billing-analytics/fork)
-[![GitHub issues](https://img.shields.io/github/issues/mohammed/healthcare-billing-analytics.svg?style=social&label=Issues)](https://github.com/mohammed/healthcare-billing-analytics/issues)
+</div>
+
+<br>
+
+<!-- Animated Description with Glowing Effect -->
+<div align="center">
+  <h3>✨ <span style="background: linear-gradient(45deg, #00D4FF, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Transform Excel Data into Actionable Healthcare Insights</span> ✨</h3>
+  <p><em>A complete end-to-end healthcare billing analytics solution that processes Excel data, performs advanced SQL analysis, and generates stunning visualizations for data-driven decision making.</em></p>
+</div>
+
+<br>
+
+<!-- Animated Social Buttons -->
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/MhussainD4772/healthcare-billing-analytics?style=social&label=Star&logo=github&logoColor=white&labelColor=24292e&color=ffd700)](https://github.com/MhussainD4772/healthcare-billing-analytics)
+[![GitHub forks](https://img.shields.io/github/forks/MhussainD4772/healthcare-billing-analytics?style=social&label=Fork&logo=github&logoColor=white&labelColor=24292e&color=00D4FF)](https://github.com/MhussainD4772/healthcare-billing-analytics/fork)
+[![GitHub issues](https://img.shields.io/github/issues/MhussainD4772/healthcare-billing-analytics?style=social&label=Issues&logo=github&logoColor=white&labelColor=24292e&color=ff6b6b)](https://github.com/MhussainD4772/healthcare-billing-analytics/issues)
+
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 </div>
 
 ---
 
-## 🎯 **What This Project Does**
+<!-- Animated Section Header -->
+<div align="center">
+  <h2>🎯 <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">What This Project Does</span></h2>
+</div>
 
-This is a **comprehensive healthcare billing analytics pipeline** that transforms raw Excel data into powerful business insights through:
+<div align="center">
+  <p>This is a <strong>comprehensive healthcare billing analytics pipeline</strong> that transforms raw Excel data into powerful business insights through:</p>
+</div>
 
-- **📊 Multi-sheet Excel data loading** with automatic SQLite database creation
-- **🔍 Advanced SQL queries** for revenue analysis, patient demographics, and performance metrics
-- **🐍 Python-powered analytics** with beautiful visualizations using Matplotlib and Seaborn
-- **📈 Interactive dashboards** and comprehensive reporting capabilities
+<br>
+
+<!-- Animated Feature List with Icons -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊-Multi--sheet%20Excel%20Loading-00D4FF?style=for-the-badge&logo=excel&logoColor=white" alt="Excel Loading" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔍-Advanced%20SQL%20Queries-FF6B6B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Queries" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🐍-Python%20Analytics-4ECDC4?style=for-the-badge&logo=python&logoColor=white" alt="Python Analytics" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📈-Interactive%20Dashboards-45B7D1?style=for-the-badge&logo=chart&logoColor=white" alt="Dashboards" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Animated Features Section -->
+<div align="center">
+  <h2>✨ <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Key Features</span></h2>
+</div>
+
+<br>
+
+<!-- Animated Feature Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <h3>🔄 <span style="color: white;">Data Processing</span></h3>
+          <ul style="color: white; text-align: left;">
+            <li>✅ <strong>Multi-sheet Excel loading</strong> with automatic table creation</li>
+            <li>✅ <strong>Data validation</strong> and comprehensive error handling</li>
+            <li>✅ <strong>SQLite database</strong> for efficient querying and storage</li>
+            <li>✅ <strong>Automatic column sanitization</strong> for SQL compatibility</li>
+            <li>✅ <strong>Logging system</strong> for process monitoring</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <h3>📊 <span style="color: white;">Analytics Engine</span></h3>
+          <ul style="color: white; text-align: left;">
+            <li>✅ <strong>Revenue analysis</strong> by department and service type</li>
+            <li>✅ <strong>Patient demographics</strong> and billing pattern analysis</li>
+            <li>✅ <strong>Insurance claim</strong> processing insights</li>
+            <li>✅ <strong>Performance metrics</strong> and KPI calculations</li>
+            <li>✅ <strong>Time-series analysis</strong> for trend identification</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## ✨ **Key Features**
+<!-- Animated Technical Architecture -->
+<div align="center">
+  <h2>🛠️ <span style="background: linear-gradient(45deg, #667eea, #764ba2, #f093fb); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Technical Architecture</span></h2>
+</div>
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
-### 🔄 **Data Processing**
-- ✅ **Multi-sheet Excel loading** with automatic table creation
-- ✅ **Data validation** and comprehensive error handling
-- ✅ **SQLite database** for efficient querying and storage
-- ✅ **Automatic column sanitization** for SQL compatibility
-- ✅ **Logging system** for process monitoring
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MhussainD4772/MhussainD4772/main/assets/header.svg" alt="Animated Architecture" />
+</div>
 
-</td>
-<td width="50%">
+<br>
 
-### 📊 **Analytics Engine**
-- ✅ **Revenue analysis** by department and service type
-- ✅ **Patient demographics** and billing pattern analysis
-- ✅ **Insurance claim** processing insights
-- ✅ **Performance metrics** and KPI calculations
-- ✅ **Time-series analysis** for trend identification
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=📁+Excel+Files+→+🔄+Data+Loader+→+🗄️+SQLite+Database;🔍+SQL+Queries+%26+🐍+Python+Analytics;📊+Revenue+Analysis+%26+📈+Visualizations;📋+Business+Insights+→+🎯+Decision+Making" alt="Architecture Flow" />
+</div>
 
 ---
 
-## 🛠️ **Technical Architecture**
+<!-- Animated Project Structure -->
+<div align="center">
+  <h2>📁 <span style="background: linear-gradient(45deg, #4ECDC4, #45B7D1, #96CEB4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Project Structure</span></h2>
+</div>
 
-```mermaid
-graph TD
-    A[📁 Excel Files] --> B[🔄 Data Loader]
-    B --> C[🗄️ SQLite Database]
-    C --> D[🔍 SQL Queries]
-    C --> E[🐍 Python Analytics]
-    D --> F[📊 Revenue Analysis]
-    E --> G[📈 Visualizations]
-    F --> H[📋 Business Insights]
-    G --> H
-    H --> I[🎯 Decision Making]
-```
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=healthcare-billing-analytics/;├──+📄+README.md+%23+Comprehensive+documentation;├──+📦+requirements.txt+%23+Python+dependencies;├──+⚙️+config.py+%23+Database+configuration;├──+🔄+1_load_data.py+%23+Excel+to+SQLite+loader;├──+🔍+2_sql_queries.sql+%23+SQL+analytics+queries;├──+🐍+3_python_analysis.py+%23+Python+analytics;├──+📄+LICENSE+%23+MIT+License;└──+📊+Generated+Outputs/+%23+Analysis+results" alt="Project Structure" />
+</div>
+
+<br>
+
+<!-- Animated File Icons -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📄-README.md-FF6B6B?style=for-the-badge&logo=markdown&logoColor=white" alt="README" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📦-requirements.txt-4ECDC4?style=for-the-badge&logo=python&logoColor=white" alt="Requirements" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⚙️-config.py-45B7D1?style=for-the-badge&logo=settings&logoColor=white" alt="Config" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔄-1_load_data.py-96CEB4?style=for-the-badge&logo=excel&logoColor=white" alt="Data Loader" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔍-2_sql_queries.sql-FFEAA7?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Queries" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🐍-3_python_analysis.py-DDA0DD?style=for-the-badge&logo=python&logoColor=white" alt="Python Analysis" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📁 **Project Structure**
+<!-- Animated Quick Start Guide -->
+<div align="center">
+  <h2>🚀 <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Quick Start Guide</span></h2>
+</div>
 
-```
-healthcare-billing-analytics/
-├── 📄 README.md                 # This comprehensive documentation
-├── 📦 requirements.txt          # Python dependencies
-├── ⚙️ config.py                # Database and analysis configuration
-├── 🔄 1_load_data.py           # Excel to SQLite data loader
-├── 🔍 2_sql_queries.sql        # Core SQL analytics queries
-├── 🐍 3_python_analysis.py     # Advanced Python analytics & visualization
-├── 📄 LICENSE                  # MIT License
-└── 📊 Generated Outputs/       # Analysis results and charts
-    ├── revenue_analysis.png
-    ├── patient_demographics.png
-    └── billing_insights.png
-```
+<br>
 
----
+<!-- Animated Prerequisites -->
+<div align="center">
+  <h3>📋 <span style="color: #FF6B6B;">Prerequisites</span></h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🐍-Python 3.8+-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📦-pip package manager-ffd43b?style=for-the-badge&logo=pip&logoColor=white" alt="pip" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊-Excel files-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Excel" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🚀 **Quick Start Guide**
+<br>
 
-### **Prerequisites**
-- 🐍 Python 3.8 or higher
-- 📦 pip package manager
-- 📊 Excel files with healthcare data
+<!-- Animated Installation Steps -->
+<div align="center">
+  <h3>⚡ <span style="color: #4ECDC4;">Installation & Setup</span></h3>
+</div>
 
-### **Installation & Setup**
-
-<details>
-<summary><b>🔽 Click to expand installation steps</b></summary>
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/mohammed/healthcare-billing-analytics.git
-   cd healthcare-billing-analytics
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Prepare your Excel data**
-   - Place your Excel file as `healthcare_data.xlsx`
-   - Ensure it contains sheets with patient, billing, department, and service data
-
-4. **Run the complete analysis**
-   ```bash
-   python 1_load_data.py
-   python 3_python_analysis.py
-   ```
-
-</details>
+<div align="center">
+  <details>
+    <summary><b>🔽 Click to expand installation steps</b></summary>
+    
+    <br>
+    
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+      <h4 style="color: white;">1️⃣ Clone the repository</h4>
+      <div style="background: #2d3748; padding: 15px; border-radius: 10px; margin: 10px 0;">
+        <code style="color: #68d391;">git clone https://github.com/MhussainD4772/healthcare-billing-analytics.git</code><br>
+        <code style="color: #68d391;">cd healthcare-billing-analytics</code>
+      </div>
+    </div>
+    
+    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+      <h4 style="color: white;">2️⃣ Install dependencies</h4>
+      <div style="background: #2d3748; padding: 15px; border-radius: 10px; margin: 10px 0;">
+        <code style="color: #68d391;">pip install -r requirements.txt</code>
+      </div>
+    </div>
+    
+    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+      <h4 style="color: white;">3️⃣ Prepare your Excel data</h4>
+      <ul style="color: white; text-align: left;">
+        <li>Place your Excel file as <code>healthcare_data.xlsx</code></li>
+        <li>Ensure it contains sheets with patient, billing, department, and service data</li>
+      </ul>
+    </div>
+    
+    <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+      <h4 style="color: white;">4️⃣ Run the complete analysis</h4>
+      <div style="background: #2d3748; padding: 15px; border-radius: 10px; margin: 10px 0;">
+        <code style="color: #68d391;">python 1_load_data.py</code><br>
+        <code style="color: #68d391;">python 3_python_analysis.py</code>
+      </div>
+    </div>
+    
+  </details>
+</div>
 
 ---
 
@@ -322,15 +449,79 @@ This project demonstrates:
 
 ---
 
+<!-- Animated Footer with Multiple Effects -->
 <div align="center">
 
-## ⭐ **Star this repository if you found it helpful!** ⭐
+<!-- Animated Star Section -->
+<div align="center">
+  <h2>⭐ <span style="background: linear-gradient(45deg, #FFD700, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: glow 2s ease-in-out infinite alternate;">Star this repository if you found it helpful!</span> ⭐</h2>
+</div>
 
-[![GitHub stars](https://img.shields.io/github/stars/mohammed/healthcare-billing-analytics.svg?style=social&label=Star)](https://github.com/mohammed/healthcare-billing-analytics)
-[![GitHub forks](https://img.shields.io/github/forks/mohammed/healthcare-billing-analytics.svg?style=social&label=Fork)](https://github.com/mohammed/healthcare-billing-analytics/fork)
+<br>
 
----
+<!-- Animated Social Buttons -->
+<div align="center">
+  <a href="https://github.com/MhussainD4772/healthcare-billing-analytics">
+    <img src="https://img.shields.io/github/stars/MhussainD4772/healthcare-billing-analytics?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=ffd700&label=⭐+Star" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/MhussainD4772/healthcare-billing-analytics/fork">
+    <img src="https://img.shields.io/github/forks/MhussainD4772/healthcare-billing-analytics?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=00D4FF&label=🍴+Fork" alt="GitHub forks" />
+  </a>
+  <a href="https://github.com/MhussainD4772/healthcare-billing-analytics/issues">
+    <img src="https://img.shields.io/github/issues/MhussainD4772/healthcare-billing-analytics?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=ff6b6b&label=🐛+Issues" alt="GitHub issues" />
+  </a>
+</div>
 
-**🚀 Ready to transform your healthcare data into actionable insights? Get started now!**
+<br>
+
+<!-- Animated Call to Action -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Ready+to+transform+your+healthcare+data?;📊+Get+started+now+and+create+amazing+insights!;💡+Join+the+data+revolution+today!" alt="Call to Action" />
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<!-- Animated Footer Text -->
+<div align="center">
+  <p style="font-size: 18px; color: #666;">
+    <strong>Made with ❤️ by <span style="color: #FF6B6B;">Mohammed</span> | Healthcare Analytics Specialist</strong>
+  </p>
+  <p style="font-size: 14px; color: #999;">
+    <em>Transforming healthcare data into actionable insights, one query at a time</em>
+  </p>
+</div>
 
 </div>
+
+<!-- CSS Animations -->
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 20px #00D4FF, 0 0 30px #00D4FF, 0 0 40px #00D4FF; }
+  to { text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FF6B6B, 0 0 30px #FF6B6B; }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.badge:hover {
+  animation: pulse 0.5s ease-in-out;
+}
+
+.gradient-text {
+  background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: glow 2s ease-in-out infinite alternate;
+}
+</style>
