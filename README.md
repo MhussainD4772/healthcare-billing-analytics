@@ -2,7 +2,10 @@
 
 <!-- Animated Header with Gradient Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🏥+Healthcare+Billing+Analytics+Pipeline;📊+Transform+Excel+Data+into+Insights;🚀+Advanced+SQL+%26+Python+Analytics;💡+Data-Driven+Decision+Making" alt="Animated Header" />
+  <h1>🏥 Healthcare Billing Analytics Pipeline</h1>
+  <h3>📊 Transform Excel Data into Insights</h3>
+  <h3>🚀 Advanced SQL & Python Analytics</h3>
+  <h3>💡 Data-Driven Decision Making</h3>
 </div>
 
 <br>
@@ -41,7 +44,9 @@
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <hr style="border: 2px solid #00D4FF; border-radius: 5px;">
+  <p>🐍 <strong>Data Analytics Snake</strong> 🐍</p>
+  <hr style="border: 2px solid #FF6B6B; border-radius: 5px;">
 </div>
 
 </div>
@@ -132,13 +137,11 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MhussainD4772/MhussainD4772/main/assets/header.svg" alt="Animated Architecture" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=📁+Excel+Files+→+🔄+Data+Loader+→+🗄️+SQLite+Database;🔍+SQL+Queries+%26+🐍+Python+Analytics;📊+Revenue+Analysis+%26+📈+Visualizations;📋+Business+Insights+→+🎯+Decision+Making" alt="Architecture Flow" />
+  <h3>🔄 Data Flow Architecture</h3>
+  <p><strong>📁 Excel Files → 🔄 Data Loader → 🗄️ SQLite Database</strong></p>
+  <p><strong>🔍 SQL Queries & 🐍 Python Analytics</strong></p>
+  <p><strong>📊 Revenue Analysis & 📈 Visualizations</strong></p>
+  <p><strong>📋 Business Insights → 🎯 Decision Making</strong></p>
 </div>
 
 ---
@@ -151,7 +154,20 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=healthcare-billing-analytics/;├──+📄+README.md+%23+Comprehensive+documentation;├──+📦+requirements.txt+%23+Python+dependencies;├──+⚙️+config.py+%23+Database+configuration;├──+🔄+1_load_data.py+%23+Excel+to+SQLite+loader;├──+🔍+2_sql_queries.sql+%23+SQL+analytics+queries;├──+🐍+3_python_analysis.py+%23+Python+analytics;├──+📄+LICENSE+%23+MIT+License;└──+📊+Generated+Outputs/+%23+Analysis+results" alt="Project Structure" />
+  <pre>
+healthcare-billing-analytics/
+├── 📄 README.md                 # Comprehensive documentation
+├── 📦 requirements.txt          # Python dependencies
+├── ⚙️ config.py                # Database configuration
+├── 🔄 1_load_data.py           # Excel to SQLite loader
+├── 🔍 2_sql_queries.sql        # SQL analytics queries
+├── 🐍 3_python_analysis.py     # Python analytics
+├── 📄 LICENSE                  # MIT License
+└── 📊 Generated Outputs/       # Analysis results
+    ├── revenue_analysis.png
+    ├── patient_demographics.png
+    └── billing_insights.png
+  </pre>
 </div>
 
 <br>
@@ -476,14 +492,18 @@ This project demonstrates:
 
 <!-- Animated Call to Action -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Ready+to+transform+your+healthcare+data?;📊+Get+started+now+and+create+amazing+insights!;💡+Join+the+data+revolution+today!" alt="Call to Action" />
+  <h2>🚀 Ready to transform your healthcare data?</h2>
+  <h3>📊 Get started now and create amazing insights!</h3>
+  <h3>💡 Join the data revolution today!</h3>
 </div>
 
 <br>
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <hr style="border: 2px solid #00D4FF; border-radius: 5px;">
+  <p>🐍 <strong>Data Analytics Snake</strong> 🐍</p>
+  <hr style="border: 2px solid #FF6B6B; border-radius: 5px;">
 </div>
 
 <br>
@@ -523,5 +543,5 @@ This project demonstrates:
   -webkit-text-fill-color: transparent;
   background-clip: text;
   animation: glow 2s ease-in-out infinite alternate;
-}
-</style>
+  }
+  </style>
