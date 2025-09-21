@@ -34,19 +34,17 @@
 <!-- Animated Social Buttons -->
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/MhussainD4772/healthcare-billing-analytics?style=social&label=Star&logo=github&logoColor=white&labelColor=24292e&color=ffd700)](https://github.com/MhussainD4772/healthcare-billing-analytics)
-[![GitHub forks](https://img.shields.io/github/forks/MhussainD4772/healthcare-billing-analytics?style=social&label=Fork&logo=github&logoColor=white&labelColor=24292e&color=00D4FF)](https://github.com/MhussainD4772/healthcare-billing-analytics/fork)
-[![GitHub issues](https://img.shields.io/github/issues/MhussainD4772/healthcare-billing-analytics?style=social&label=Issues&logo=github&logoColor=white&labelColor=24292e&color=ff6b6b)](https://github.com/MhussainD4772/healthcare-billing-analytics/issues)
+[![GitHub stars](https://img.shields.io/github/stars/MhussainD4772/healthcare-billing-analytics?style=social&label=Star)](https://github.com/MhussainD4772/healthcare-billing-analytics)
+[![GitHub forks](https://img.shields.io/github/forks/MhussainD4772/healthcare-billing-analytics?style=social&label=Fork)](https://github.com/MhussainD4772/healthcare-billing-analytics/fork)
+[![GitHub issues](https://img.shields.io/github/issues/MhussainD4772/healthcare-billing-analytics?style=social&label=Issues)](https://github.com/MhussainD4772/healthcare-billing-analytics/issues)
 
 </div>
 
 <br>
 
-<!-- Animated Divider -->
+<!-- Animated Snake Divider -->
 <div align="center">
-  <hr style="border: 2px solid #00D4FF; border-radius: 5px;">
-  <p>🐍 <strong>Data Analytics Snake</strong> 🐍</p>
-  <hr style="border: 2px solid #FF6B6B; border-radius: 5px;">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 </div>
@@ -478,13 +476,13 @@ This project demonstrates:
 <!-- Animated Social Buttons -->
 <div align="center">
   <a href="https://github.com/MhussainD4772/healthcare-billing-analytics">
-    <img src="https://img.shields.io/github/stars/MhussainD4772/healthcare-billing-analytics?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=ffd700&label=⭐+Star" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/MhussainD4772/healthcare-billing-analytics?style=social&label=Star" alt="GitHub stars" />
   </a>
   <a href="https://github.com/MhussainD4772/healthcare-billing-analytics/fork">
-    <img src="https://img.shields.io/github/forks/MhussainD4772/healthcare-billing-analytics?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=00D4FF&label=🍴+Fork" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/forks/MhussainD4772/healthcare-billing-analytics?style=social&label=Fork" alt="GitHub forks" />
   </a>
   <a href="https://github.com/MhussainD4772/healthcare-billing-analytics/issues">
-    <img src="https://img.shields.io/github/issues/MhussainD4772/healthcare-billing-analytics?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=ff6b6b&label=🐛+Issues" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/issues/MhussainD4772/healthcare-billing-analytics?style=social&label=Issues" alt="GitHub issues" />
   </a>
 </div>
 
@@ -499,11 +497,9 @@ This project demonstrates:
 
 <br>
 
-<!-- Animated Divider -->
+<!-- Animated Snake Divider -->
 <div align="center">
-  <hr style="border: 2px solid #00D4FF; border-radius: 5px;">
-  <p>🐍 <strong>Data Analytics Snake</strong> 🐍</p>
-  <hr style="border: 2px solid #FF6B6B; border-radius: 5px;">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
