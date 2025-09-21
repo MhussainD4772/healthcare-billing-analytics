@@ -507,7 +507,7 @@ This project demonstrates:
 <!-- Animated Footer Text -->
 <div align="center">
   <p style="font-size: 18px; color: #666;">
-    <strong>Made with ❤️ by <span style="color: #FF6B6B;">Mohammed</span> | Healthcare Analytics Specialist</strong>
+    <strong>Made with ❤️ by <span style="color: #FF6B6B;">Mohammed</span> 
   </p>
   <p style="font-size: 14px; color: #999;">
     <em>Transforming healthcare data into actionable insights, one query at a time</em>
