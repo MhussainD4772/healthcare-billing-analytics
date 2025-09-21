@@ -514,7 +514,3 @@ This project demonstrates:
   </p>
 </div>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b0f01b2ff221ae2aebebfa9c4270160cacc5d838
