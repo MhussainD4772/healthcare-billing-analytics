@@ -514,30 +514,4 @@ This project demonstrates:
   </p>
 </div>
 
-</div>
 
-<!-- CSS Animations -->
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 20px #00D4FF, 0 0 30px #00D4FF, 0 0 40px #00D4FF; }
-  to { text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FF6B6B, 0 0 30px #FF6B6B; }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-
-.badge:hover {
-  animation: pulse 0.5s ease-in-out;
-}
-
-.gradient-text {
-  background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  animation: glow 2s ease-in-out infinite alternate;
-  }
-  </style>
